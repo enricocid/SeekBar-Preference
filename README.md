@@ -9,4 +9,6 @@ In SeekBarPreference.java You can edit:
 - SeekBar and Text color: check for setSeekBarColor() method;
 - MAX: Maximum value;
 
+Programmatically get the SeekBar value by using SeekBar.getSeekBarValue(Context context) that returns an int;
+
 ![ScreenShot](https://raw.githubusercontent.com/enricocid/SeekBar-Preference/master/art.png)
