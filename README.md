@@ -9,4 +9,4 @@ In SeekBarPreference.java You can edit:
 - SeekBar and Text color: check for setSeekBarColor() method;
 - MAX: Maximum value;
 
-![ScreenShot](https://github.com/enricocid/SeekBar-Preference/blob/master/art.png)
+![ScreenShot](https://raw.githubusercontent.com/enricocid/SeekBar-Preference/master/art.png)
